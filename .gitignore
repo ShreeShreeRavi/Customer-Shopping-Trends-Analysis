@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Data (if sensitive/large – but include your CSV for this project)
+# data/*.csv  # Uncomment if you want to exclude data
+
+# IDE
+.vscode/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
